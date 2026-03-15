@@ -1,4 +1,4 @@
-mport React, { useEffect } from 'react'
+import React, { useEffect } from 'react'
 import { HashRouter, Routes, Route, useLocation } from 'react-router-dom'
 import Header from './components/Header.jsx'
 import Footer from './components/Footer.jsx'
