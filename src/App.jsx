@@ -10,7 +10,7 @@ import Repairs from './pages/Repairs.jsx'
 import PointOfSale from './pages/PointOfSale.jsx'
 import Industries from './pages/Industries.jsx'
 import Contact from './pages/Contact.jsx'
-import Privacy from './pages/Privacy.jsx'
+import Privacy from './src/pages/Privacy.jsx'
 
 function ScrollToTop() {
   const { pathname } = useLocation()
